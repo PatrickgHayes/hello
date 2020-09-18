@@ -3,7 +3,7 @@ package com.example.hello;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-// here is to the pull requests
+// here is to the plugins
 @RestController
 public class HelloController {
 
